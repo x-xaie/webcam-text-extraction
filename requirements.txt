@@ -1,0 +1,5 @@
+google-cloud-vision
+opencv-python
+pillow
+tkinter
+numpy
